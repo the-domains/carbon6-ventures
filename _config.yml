@@ -1,6 +1,7 @@
 name: Carbon6 Ventures
 favicon: null
-typography_spectrum: 0.47001
+layout_spectrum: 0.00172
+typography_spectrum: 0.26657
 cta:
   domain: null
   bucket: null
